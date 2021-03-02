@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-profile {
     padding: 75px 0;
-    background: #fff;
+    background: #e6e6e6;
 }
 #page-profile .profile {
     border: 5px solid #333;
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-skills {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: #e6e6e6;
     text-align: center;
 }
 #page-education {
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-portfolio {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: #e6e6e6;
 }
 #page-contact {
     padding: 75px 0;
